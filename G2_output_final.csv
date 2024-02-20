@@ -1,0 +1,645 @@
+bu_designation	,	bu_name	,	"	product_name	"	,	region	,	year	,	month	,	Sum of Quantity	,	Sum of Order Total
+Growth	,	Energy	,	"	Purple Pain	"	,	Eastern	,	2012	,	1	,	20	,	6960
+Growth	,	Energy	,	"	Purple Pain	"	,	Eastern	,	2012	,	2	,	43	,	14964
+Growth	,	Energy	,	"	Purple Pain	"	,	Eastern	,	2012	,	3	,	72	,	25056
+Growth	,	Energy	,	"	Purple Pain	"	,	Eastern	,	2012	,	6	,	39	,	13572
+Growth	,	Energy	,	"	Purple Pain	"	,	Eastern	,	2012	,	8	,	75	,	26100
+Growth	,	Energy	,	"	Purple Pain	"	,	Eastern	,	2012	,	11	,	26	,	9048
+Growth	,	Energy	,	"	Purple Pain	"	,	Eastern	,	2012	,	12	,	33	,	11484
+Growth	,	Energy	,	"	Purple Pain	"	,	Eastern	,	2013	,	4	,	7	,	2555
+Growth	,	Energy	,	"	Purple Pain	"	,	Eastern	,	2013	,	5	,	37	,	13505
+Growth	,	Energy	,	"	Purple Pain	"	,	Eastern	,	2013	,	7	,	83	,	30295
+Growth	,	Energy	,	"	Purple Pain	"	,	Eastern	,	2013	,	8	,	15	,	5475
+Growth	,	Energy	,	"	Purple Pain	"	,	Eastern	,	2013	,	9	,	46	,	16790
+Growth	,	Energy	,	"	Purple Pain	"	,	Eastern	,	2013	,	10	,	44	,	16060
+Growth	,	Energy	,	"	Purple Pain	"	,	Eastern	,	2013	,	12	,	79	,	28835
+Growth	,	Energy	,	"	Purple Pain	"	,	Eastern	,	2014	,	2	,	78	,	27195
+Growth	,	Energy	,	"	Purple Pain	"	,	Eastern	,	2014	,	4	,	56	,	20664
+Growth	,	Energy	,	"	Purple Pain	"	,	Eastern	,	2014	,	6	,	81	,	28118
+Growth	,	Energy	,	"	Purple Pain	"	,	Eastern	,	2014	,	7	,	39	,	12952
+Growth	,	Energy	,	"	Purple Pain	"	,	Eastern	,	2014	,	10	,	31	,	11439
+Growth	,	Energy	,	"	Purple Pain	"	,	Eastern	,	2014	,	11	,	107	,	35719
+Growth	,	Energy	,	"	Purple Pain	"	,	Eastern	,	2014	,	12	,	26	,	9594
+Growth	,	Energy	,	"	Purple Pain	"	,	Midwest	,	2012	,	1	,	26	,	9048
+Growth	,	Energy	,	"	Purple Pain	"	,	Midwest	,	2012	,	4	,	15	,	5220
+Growth	,	Energy	,	"	Purple Pain	"	,	Midwest	,	2012	,	9	,	40	,	13920
+Growth	,	Energy	,	"	Purple Pain	"	,	Midwest	,	2013	,	2	,	20	,	7300
+Growth	,	Energy	,	"	Purple Pain	"	,	Midwest	,	2013	,	3	,	24	,	8760
+Growth	,	Energy	,	"	Purple Pain	"	,	Midwest	,	2013	,	5	,	46	,	16790
+Growth	,	Energy	,	"	Purple Pain	"	,	Midwest	,	2013	,	9	,	54	,	19710
+Growth	,	Energy	,	"	Purple Pain	"	,	Midwest	,	2013	,	10	,	17	,	6205
+Growth	,	Energy	,	"	Purple Pain	"	,	Midwest	,	2014	,	3	,	20	,	7380
+Growth	,	Energy	,	"	Purple Pain	"	,	Midwest	,	2014	,	4	,	55	,	18376
+Growth	,	Energy	,	"	Purple Pain	"	,	Midwest	,	2014	,	6	,	1	,	369
+Growth	,	Energy	,	"	Purple Pain	"	,	Midwest	,	2014	,	9	,	20	,	7380
+Growth	,	Energy	,	"	Purple Pain	"	,	Midwest	,	2014	,	11	,	43	,	14280
+Growth	,	Energy	,	"	Purple Pain	"	,	Midwest	,	2014	,	12	,	37	,	12288
+Growth	,	Energy	,	"	Purple Pain	"	,	Southeast	,	2012	,	1	,	37	,	12876
+Growth	,	Energy	,	"	Purple Pain	"	,	Southeast	,	2012	,	2	,	25	,	8700
+Growth	,	Energy	,	"	Purple Pain	"	,	Southeast	,	2012	,	3	,	7	,	2436
+Growth	,	Energy	,	"	Purple Pain	"	,	Southeast	,	2012	,	6	,	50	,	17400
+Growth	,	Energy	,	"	Purple Pain	"	,	Southeast	,	2012	,	7	,	39	,	13572
+Growth	,	Energy	,	"	Purple Pain	"	,	Southeast	,	2012	,	8	,	1	,	348
+Growth	,	Energy	,	"	Purple Pain	"	,	Southeast	,	2012	,	9	,	40	,	13920
+Growth	,	Energy	,	"	Purple Pain	"	,	Southeast	,	2013	,	6	,	87	,	31755
+Growth	,	Energy	,	"	Purple Pain	"	,	Southeast	,	2013	,	7	,	14	,	5110
+Growth	,	Energy	,	"	Purple Pain	"	,	Southeast	,	2014	,	1	,	22	,	8118
+Growth	,	Energy	,	"	Purple Pain	"	,	Southeast	,	2014	,	4	,	31	,	11439
+Growth	,	Energy	,	"	Purple Pain	"	,	Southeast	,	2014	,	9	,	35	,	12915
+Growth	,	Energy	,	"	Purple Pain	"	,	Southeast	,	2014	,	11	,	8	,	2952
+Growth	,	Energy	,	"	Purple Pain	"	,	Southeast	,	2014	,	12	,	44	,	14612
+Growth	,	Energy	,	"	Purple Pain	"	,	Western	,	2012	,	3	,	13	,	4524
+Growth	,	Energy	,	"	Purple Pain	"	,	Western	,	2012	,	4	,	16	,	5568
+Growth	,	Energy	,	"	Purple Pain	"	,	Western	,	2012	,	7	,	20	,	6960
+Growth	,	Energy	,	"	Purple Pain	"	,	Western	,	2012	,	8	,	24	,	8352
+Growth	,	Energy	,	"	Purple Pain	"	,	Western	,	2012	,	9	,	19	,	6612
+Growth	,	Energy	,	"	Purple Pain	"	,	Western	,	2012	,	11	,	51	,	17748
+Growth	,	Energy	,	"	Purple Pain	"	,	Western	,	2012	,	12	,	1	,	348
+Growth	,	Energy	,	"	Purple Pain	"	,	Western	,	2013	,	1	,	18	,	6570
+Growth	,	Energy	,	"	Purple Pain	"	,	Western	,	2013	,	3	,	27	,	9855
+Growth	,	Energy	,	"	Purple Pain	"	,	Western	,	2013	,	4	,	121	,	44165
+Growth	,	Energy	,	"	Purple Pain	"	,	Western	,	2013	,	7	,	28	,	10220
+Growth	,	Energy	,	"	Purple Pain	"	,	Western	,	2013	,	9	,	28	,	10220
+Growth	,	Energy	,	"	Purple Pain	"	,	Western	,	2013	,	10	,	20	,	7300
+Growth	,	Energy	,	"	Purple Pain	"	,	Western	,	2013	,	11	,	23	,	8395
+Growth	,	Energy	,	"	Purple Pain	"	,	Western	,	2013	,	12	,	105	,	38325
+Growth	,	Energy	,	"	Purple Pain	"	,	Western	,	2014	,	7	,	25	,	9225
+Growth	,	Energy	,	"	Purple Pain	"	,	Western	,	2014	,	8	,	15	,	5535
+Growth	,	Energy	,	"	Purple Pain	"	,	Western	,	2014	,	9	,	55	,	18265
+Growth	,	Energy	,	"	Purple Pain	"	,	Western	,	2014	,	11	,	59	,	19594
+Growth	,	Energy	,	"	Purple Pain	"	,	Western	,	2014	,	12	,	76	,	26383
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Eastern	,	2012	,	1	,	26	,	11180
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Eastern	,	2012	,	2	,	34	,	14620
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Eastern	,	2012	,	3	,	42	,	18060
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Eastern	,	2012	,	4	,	28	,	12040
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Eastern	,	2012	,	5	,	40	,	17200
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Eastern	,	2012	,	6	,	34	,	14620
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Eastern	,	2012	,	7	,	11	,	4730
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Eastern	,	2012	,	10	,	25	,	10750
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Eastern	,	2012	,	11	,	35	,	15050
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Eastern	,	2012	,	12	,	8	,	3440
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Eastern	,	2013	,	2	,	75	,	32550
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Eastern	,	2013	,	3	,	36	,	15624
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Eastern	,	2013	,	4	,	10	,	4340
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Eastern	,	2013	,	6	,	91	,	39494
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Eastern	,	2013	,	7	,	40	,	17360
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Eastern	,	2013	,	8	,	44	,	19096
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Eastern	,	2013	,	11	,	52	,	22568
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Eastern	,	2013	,	12	,	29	,	12586
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Eastern	,	2014	,	1	,	32	,	13600
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Eastern	,	2014	,	2	,	51	,	19805
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Eastern	,	2014	,	4	,	30	,	12750
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Eastern	,	2014	,	6	,	162	,	62304
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Eastern	,	2014	,	8	,	57	,	21802
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Eastern	,	2014	,	10	,	7	,	2975
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Eastern	,	2014	,	11	,	0	,	0
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Eastern	,	2014	,	12	,	60	,	22950
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Midwest	,	2012	,	3	,	19	,	8170
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Midwest	,	2012	,	5	,	26	,	11180
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Midwest	,	2012	,	6	,	9	,	3870
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Midwest	,	2012	,	8	,	49	,	21070
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Midwest	,	2013	,	1	,	84	,	36456
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Midwest	,	2013	,	2	,	95	,	41230
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Midwest	,	2013	,	3	,	64	,	27776
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Midwest	,	2013	,	5	,	40	,	17360
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Midwest	,	2013	,	6	,	20	,	8680
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Midwest	,	2013	,	7	,	50	,	21700
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Midwest	,	2013	,	8	,	77	,	33418
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Midwest	,	2013	,	10	,	14	,	6076
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Midwest	,	2013	,	11	,	48	,	20832
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Midwest	,	2013	,	12	,	34	,	14756
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Midwest	,	2014	,	2	,	59	,	22737
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Midwest	,	2014	,	3	,	100	,	38250
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Midwest	,	2014	,	4	,	57	,	21802
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Midwest	,	2014	,	5	,	32	,	13600
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Midwest	,	2014	,	7	,	32	,	13600
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Midwest	,	2014	,	9	,	29	,	12325
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Midwest	,	2014	,	10	,	49	,	18742
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Midwest	,	2014	,	12	,	34	,	14450
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Southeast	,	2012	,	1	,	29	,	12470
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Southeast	,	2012	,	3	,	16	,	6880
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Southeast	,	2012	,	6	,	2	,	860
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Southeast	,	2012	,	10	,	5	,	2150
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Southeast	,	2013	,	2	,	3	,	1302
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Southeast	,	2013	,	4	,	18	,	7812
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Southeast	,	2013	,	5	,	23	,	9982
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Southeast	,	2013	,	7	,	37	,	16058
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Southeast	,	2013	,	8	,	30	,	13020
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Southeast	,	2013	,	11	,	34	,	14756
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Southeast	,	2014	,	2	,	67	,	26902
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Southeast	,	2014	,	4	,	4	,	1700
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Western	,	2012	,	1	,	22	,	9460
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Western	,	2012	,	2	,	17	,	7310
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Western	,	2012	,	3	,	68	,	29240
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Western	,	2012	,	4	,	38	,	16340
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Western	,	2012	,	6	,	9	,	3870
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Western	,	2012	,	7	,	33	,	14190
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Western	,	2012	,	10	,	39	,	16770
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Western	,	2013	,	1	,	21	,	9114
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Western	,	2013	,	2	,	4	,	1736
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Western	,	2013	,	5	,	41	,	17794
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Western	,	2013	,	7	,	54	,	23436
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Western	,	2013	,	8	,	98	,	42532
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Western	,	2013	,	10	,	99	,	42966
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Western	,	2013	,	11	,	111	,	48174
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Western	,	2013	,	12	,	39	,	16926
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Western	,	2014	,	2	,	97	,	37102
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Western	,	2014	,	4	,	106	,	42967
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Western	,	2014	,	5	,	56	,	21420
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Western	,	2014	,	6	,	113	,	45602
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Western	,	2014	,	9	,	68	,	27285
+Growth	,	Energy	,	"	Red Hot Chili Peppers	"	,	Western	,	2014	,	11	,	52	,	19890
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Eastern	,	2012	,	1	,	25	,	11650
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Eastern	,	2012	,	2	,	39	,	18174
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Eastern	,	2012	,	3	,	32	,	14912
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Eastern	,	2012	,	6	,	80	,	37280
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Eastern	,	2013	,	2	,	112	,	54768
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Eastern	,	2013	,	3	,	65	,	31785
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Eastern	,	2013	,	4	,	15	,	7335
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Eastern	,	2013	,	5	,	38	,	18582
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Eastern	,	2013	,	6	,	4	,	1956
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Eastern	,	2013	,	8	,	75	,	36675
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Eastern	,	2013	,	9	,	50	,	24450
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Eastern	,	2013	,	10	,	51	,	24939
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Eastern	,	2013	,	11	,	96	,	46944
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Eastern	,	2014	,	1	,	55	,	28215
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Eastern	,	2014	,	4	,	36	,	18468
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Eastern	,	2014	,	5	,	162	,	78027
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Eastern	,	2014	,	6	,	14	,	7182
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Eastern	,	2014	,	10	,	114	,	53660
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Midwest	,	2012	,	1	,	48	,	22368
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Midwest	,	2012	,	2	,	12	,	5592
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Midwest	,	2012	,	5	,	17	,	7922
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Midwest	,	2012	,	6	,	30	,	13980
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Midwest	,	2012	,	7	,	35	,	16310
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Midwest	,	2012	,	8	,	23	,	10718
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Midwest	,	2012	,	11	,	35	,	16310
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Midwest	,	2012	,	12	,	34	,	15844
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Midwest	,	2013	,	3	,	44	,	21516
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Midwest	,	2013	,	6	,	53	,	25917
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Midwest	,	2013	,	8	,	147	,	71883
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Midwest	,	2013	,	10	,	64	,	31296
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Midwest	,	2014	,	2	,	25	,	12825
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Midwest	,	2014	,	4	,	63	,	32319
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Midwest	,	2014	,	5	,	44	,	22572
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Midwest	,	2014	,	6	,	3	,	1539
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Midwest	,	2014	,	9	,	51	,	23547
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Midwest	,	2014	,	10	,	9	,	4617
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Midwest	,	2014	,	11	,	74	,	35602
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Southeast	,	2012	,	1	,	2	,	932
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Southeast	,	2012	,	2	,	54	,	25164
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Southeast	,	2012	,	5	,	13	,	6058
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Southeast	,	2012	,	6	,	39	,	18174
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Southeast	,	2012	,	7	,	34	,	15844
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Southeast	,	2012	,	9	,	21	,	9786
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Southeast	,	2012	,	10	,	69	,	32154
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Southeast	,	2013	,	5	,	42	,	20538
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Southeast	,	2013	,	10	,	24	,	11736
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Southeast	,	2013	,	11	,	23	,	11247
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Southeast	,	2013	,	12	,	32	,	15648
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Southeast	,	2014	,	6	,	11	,	5643
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Southeast	,	2014	,	8	,	18	,	9234
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Southeast	,	2014	,	9	,	13	,	6669
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Western	,	2012	,	1	,	48	,	22368
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Western	,	2012	,	3	,	0	,	0
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Western	,	2012	,	4	,	20	,	9320
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Western	,	2012	,	5	,	18	,	8388
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Western	,	2012	,	7	,	2	,	932
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Western	,	2012	,	10	,	32	,	14912
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Western	,	2012	,	11	,	19	,	8854
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Western	,	2013	,	2	,	33	,	16137
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Western	,	2013	,	6	,	27	,	13203
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Western	,	2013	,	7	,	17	,	8313
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Western	,	2013	,	9	,	112	,	54768
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Western	,	2013	,	10	,	23	,	11247
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Western	,	2014	,	2	,	22	,	11286
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Western	,	2014	,	3	,	63	,	29292
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Western	,	2014	,	6	,	136	,	62792
+Growth	,	On the go	,	"	Blue Rock Candy	"	,	Western	,	2014	,	9	,	1	,	513
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Eastern	,	2012	,	2	,	30	,	9540
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Eastern	,	2012	,	4	,	26	,	8268
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Eastern	,	2012	,	7	,	45	,	14310
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Eastern	,	2012	,	9	,	46	,	14628
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Eastern	,	2012	,	11	,	40	,	12720
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Eastern	,	2013	,	1	,	20	,	6360
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Eastern	,	2013	,	2	,	6	,	1908
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Eastern	,	2013	,	3	,	67	,	21306
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Eastern	,	2013	,	5	,	66	,	20988
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Eastern	,	2013	,	7	,	34	,	10812
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Eastern	,	2013	,	9	,	91	,	28938
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Eastern	,	2013	,	10	,	119	,	37842
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Eastern	,	2013	,	12	,	13	,	4134
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Eastern	,	2014	,	2	,	32	,	10368
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Eastern	,	2014	,	5	,	36	,	11664
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Eastern	,	2014	,	6	,	67	,	19991
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Eastern	,	2014	,	7	,	20	,	6480
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Eastern	,	2014	,	9	,	99	,	30359
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Eastern	,	2014	,	10	,	58	,	16913
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Eastern	,	2014	,	11	,	83	,	25045
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Midwest	,	2012	,	1	,	41	,	13038
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Midwest	,	2012	,	2	,	6	,	1908
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Midwest	,	2012	,	3	,	117	,	37206
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Midwest	,	2012	,	4	,	26	,	8268
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Midwest	,	2012	,	6	,	6	,	1908
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Midwest	,	2012	,	9	,	33	,	10494
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Midwest	,	2012	,	12	,	28	,	8904
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Midwest	,	2013	,	1	,	41	,	13038
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Midwest	,	2013	,	4	,	8	,	2544
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Midwest	,	2013	,	5	,	25	,	7950
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Midwest	,	2013	,	6	,	9	,	2862
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Midwest	,	2013	,	8	,	63	,	20034
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Midwest	,	2013	,	10	,	60	,	19080
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Midwest	,	2013	,	12	,	6	,	1908
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Midwest	,	2014	,	1	,	26	,	8424
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Midwest	,	2014	,	2	,	74	,	22550
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Midwest	,	2014	,	4	,	32	,	10368
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Midwest	,	2014	,	5	,	37	,	10789
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Midwest	,	2014	,	6	,	34	,	11016
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Midwest	,	2014	,	7	,	10	,	3240
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Midwest	,	2014	,	9	,	55	,	16038
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Midwest	,	2014	,	10	,	55	,	17820
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Midwest	,	2014	,	11	,	52	,	15163
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Midwest	,	2014	,	12	,	54	,	15746
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Southeast	,	2012	,	5	,	59	,	18762
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Southeast	,	2012	,	6	,	10	,	3180
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Southeast	,	2012	,	8	,	1	,	318
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Southeast	,	2012	,	9	,	1	,	318
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Southeast	,	2012	,	12	,	40	,	12720
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Southeast	,	2013	,	1	,	23	,	7314
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Southeast	,	2013	,	2	,	27	,	8586
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Southeast	,	2013	,	6	,	38	,	12084
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Southeast	,	2013	,	7	,	54	,	17172
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Southeast	,	2014	,	1	,	49	,	14288
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Southeast	,	2014	,	3	,	128	,	37811
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Southeast	,	2014	,	4	,	19	,	6156
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Southeast	,	2014	,	10	,	33	,	10692
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Southeast	,	2014	,	12	,	14	,	4536
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Western	,	2012	,	3	,	1	,	318
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Western	,	2012	,	4	,	56	,	17808
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Western	,	2012	,	7	,	58	,	18444
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Western	,	2012	,	9	,	62	,	19716
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Western	,	2012	,	11	,	23	,	7314
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Western	,	2012	,	12	,	74	,	23532
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Western	,	2013	,	1	,	15	,	4770
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Western	,	2013	,	3	,	53	,	16854
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Western	,	2013	,	5	,	12	,	3816
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Western	,	2013	,	6	,	0	,	0
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Western	,	2013	,	9	,	50	,	15900
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Western	,	2013	,	11	,	73	,	23214
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Western	,	2013	,	12	,	6	,	1908
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Western	,	2014	,	1	,	53	,	15487
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Western	,	2014	,	3	,	39	,	12636
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Western	,	2014	,	4	,	78	,	23749
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Western	,	2014	,	5	,	54	,	17496
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Western	,	2014	,	6	,	42	,	12247
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Western	,	2014	,	7	,	55	,	16038
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Western	,	2014	,	8	,	43	,	12539
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Western	,	2014	,	9	,	7	,	2268
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Western	,	2014	,	10	,	24	,	7776
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Western	,	2014	,	11	,	12	,	3888
+Growth	,	On the go	,	"	Pink Bubble Gum	"	,	Western	,	2014	,	12	,	9	,	2916
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Eastern	,	2012	,	1	,	45	,	12690
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Eastern	,	2012	,	3	,	23	,	6486
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Eastern	,	2012	,	4	,	61	,	17202
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Eastern	,	2012	,	5	,	26	,	7332
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Eastern	,	2012	,	7	,	32	,	9024
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Eastern	,	2012	,	8	,	43	,	12126
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Eastern	,	2012	,	9	,	28	,	7896
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Eastern	,	2012	,	10	,	22	,	6204
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Eastern	,	2012	,	11	,	40	,	11280
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Eastern	,	2013	,	2	,	57	,	16701
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Eastern	,	2013	,	3	,	23	,	6739
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Eastern	,	2013	,	4	,	28	,	8204
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Eastern	,	2013	,	5	,	58	,	16994
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Eastern	,	2013	,	7	,	53	,	15529
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Eastern	,	2013	,	9	,	37	,	10841
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Eastern	,	2013	,	11	,	91	,	26663
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Eastern	,	2013	,	12	,	46	,	13478
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Eastern	,	2014	,	2	,	38	,	11020
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Eastern	,	2014	,	3	,	49	,	12789
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Eastern	,	2014	,	4	,	55	,	14732
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Eastern	,	2014	,	5	,	47	,	12267
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Eastern	,	2014	,	6	,	15	,	4350
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Eastern	,	2014	,	8	,	43	,	11223
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Eastern	,	2014	,	9	,	93	,	24273
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Eastern	,	2014	,	11	,	88	,	22968
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Eastern	,	2014	,	12	,	59	,	15399
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Midwest	,	2012	,	1	,	25	,	7050
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Midwest	,	2012	,	2	,	23	,	6486
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Midwest	,	2012	,	4	,	32	,	9024
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Midwest	,	2012	,	7	,	5	,	1410
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Midwest	,	2012	,	9	,	11	,	3102
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Midwest	,	2012	,	12	,	76	,	21432
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Midwest	,	2013	,	1	,	49	,	14357
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Midwest	,	2013	,	2	,	35	,	10255
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Midwest	,	2013	,	3	,	51	,	14943
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Midwest	,	2013	,	4	,	37	,	10841
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Midwest	,	2013	,	7	,	31	,	9083
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Midwest	,	2013	,	8	,	26	,	7618
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Midwest	,	2013	,	9	,	80	,	23440
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Midwest	,	2013	,	11	,	3	,	879
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Midwest	,	2013	,	12	,	28	,	8204
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Midwest	,	2014	,	1	,	28	,	8120
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Midwest	,	2014	,	2	,	42	,	10962
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Midwest	,	2014	,	4	,	55	,	14355
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Midwest	,	2014	,	8	,	14	,	4060
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Midwest	,	2014	,	10	,	56	,	16240
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Midwest	,	2014	,	11	,	140	,	37381
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Southeast	,	2012	,	2	,	77	,	21714
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Southeast	,	2012	,	7	,	36	,	10152
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Southeast	,	2012	,	8	,	4	,	1128
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Southeast	,	2012	,	9	,	8	,	2256
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Southeast	,	2012	,	12	,	70	,	19740
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Southeast	,	2013	,	1	,	16	,	4688
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Southeast	,	2013	,	5	,	48	,	14064
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Southeast	,	2013	,	9	,	39	,	11427
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Southeast	,	2014	,	1	,	37	,	9657
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Southeast	,	2014	,	3	,	11	,	3190
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Southeast	,	2014	,	4	,	40	,	10440
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Southeast	,	2014	,	5	,	22	,	6380
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Southeast	,	2014	,	6	,	69	,	18705
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Southeast	,	2014	,	7	,	70	,	19227
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Southeast	,	2014	,	11	,	17	,	4930
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Western	,	2012	,	1	,	4	,	1128
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Western	,	2012	,	2	,	72	,	20304
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Western	,	2012	,	4	,	22	,	6204
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Western	,	2012	,	6	,	35	,	9870
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Western	,	2012	,	7	,	64	,	18048
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Western	,	2012	,	8	,	6	,	1692
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Western	,	2012	,	10	,	25	,	7050
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Western	,	2012	,	11	,	35	,	9870
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Western	,	2012	,	12	,	20	,	5640
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Western	,	2013	,	2	,	63	,	18459
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Western	,	2013	,	4	,	66	,	19338
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Western	,	2013	,	6	,	56	,	16408
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Western	,	2013	,	7	,	51	,	14943
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Western	,	2013	,	9	,	27	,	7911
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Western	,	2013	,	10	,	77	,	22561
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Western	,	2013	,	11	,	166	,	48638
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Western	,	2013	,	12	,	82	,	24026
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Western	,	2014	,	2	,	19	,	5510
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Western	,	2014	,	4	,	50	,	14500
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Western	,	2014	,	5	,	46	,	12006
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Western	,	2014	,	7	,	44	,	12760
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Western	,	2014	,	8	,	100	,	27637
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Western	,	2014	,	10	,	41	,	10701
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Western	,	2014	,	11	,	90	,	24389
+Growth	,	Snack	,	"	Crocodile Tears	"	,	Western	,	2014	,	12	,	94	,	25955
+Mature	,	Health	,	"	Panda Gummies	"	,	Eastern	,	2012	,	1	,	33	,	4818
+Mature	,	Health	,	"	Panda Gummies	"	,	Eastern	,	2012	,	3	,	32	,	4672
+Mature	,	Health	,	"	Panda Gummies	"	,	Eastern	,	2012	,	5	,	28	,	4088
+Mature	,	Health	,	"	Panda Gummies	"	,	Eastern	,	2012	,	6	,	38	,	5548
+Mature	,	Health	,	"	Panda Gummies	"	,	Eastern	,	2012	,	8	,	71	,	10366
+Mature	,	Health	,	"	Panda Gummies	"	,	Eastern	,	2012	,	9	,	24	,	3504
+Mature	,	Health	,	"	Panda Gummies	"	,	Eastern	,	2012	,	11	,	90	,	13140
+Mature	,	Health	,	"	Panda Gummies	"	,	Eastern	,	2012	,	12	,	51	,	7446
+Mature	,	Health	,	"	Panda Gummies	"	,	Eastern	,	2013	,	2	,	49	,	7301
+Mature	,	Health	,	"	Panda Gummies	"	,	Eastern	,	2013	,	4	,	23	,	3427
+Mature	,	Health	,	"	Panda Gummies	"	,	Eastern	,	2013	,	5	,	46	,	6854
+Mature	,	Health	,	"	Panda Gummies	"	,	Eastern	,	2013	,	6	,	45	,	6705
+Mature	,	Health	,	"	Panda Gummies	"	,	Eastern	,	2013	,	7	,	52	,	7748
+Mature	,	Health	,	"	Panda Gummies	"	,	Eastern	,	2013	,	8	,	77	,	11473
+Mature	,	Health	,	"	Panda Gummies	"	,	Eastern	,	2013	,	9	,	17	,	2533
+Mature	,	Health	,	"	Panda Gummies	"	,	Eastern	,	2013	,	11	,	78	,	11622
+Mature	,	Health	,	"	Panda Gummies	"	,	Eastern	,	2013	,	12	,	33	,	4917
+Mature	,	Health	,	"	Panda Gummies	"	,	Eastern	,	2014	,	1	,	61	,	8392
+Mature	,	Health	,	"	Panda Gummies	"	,	Eastern	,	2014	,	2	,	38	,	5624
+Mature	,	Health	,	"	Panda Gummies	"	,	Eastern	,	2014	,	4	,	27	,	3996
+Mature	,	Health	,	"	Panda Gummies	"	,	Eastern	,	2014	,	5	,	48	,	6394
+Mature	,	Health	,	"	Panda Gummies	"	,	Eastern	,	2014	,	7	,	76	,	10360
+Mature	,	Health	,	"	Panda Gummies	"	,	Eastern	,	2014	,	8	,	102	,	13587
+Mature	,	Health	,	"	Panda Gummies	"	,	Eastern	,	2014	,	11	,	50	,	7400
+Mature	,	Health	,	"	Panda Gummies	"	,	Eastern	,	2014	,	12	,	0	,	0
+Mature	,	Health	,	"	Panda Gummies	"	,	Midwest	,	2012	,	1	,	51	,	7446
+Mature	,	Health	,	"	Panda Gummies	"	,	Midwest	,	2012	,	3	,	26	,	3796
+Mature	,	Health	,	"	Panda Gummies	"	,	Midwest	,	2012	,	5	,	18	,	2628
+Mature	,	Health	,	"	Panda Gummies	"	,	Midwest	,	2012	,	6	,	15	,	2190
+Mature	,	Health	,	"	Panda Gummies	"	,	Midwest	,	2012	,	7	,	38	,	5548
+Mature	,	Health	,	"	Panda Gummies	"	,	Midwest	,	2012	,	8	,	17	,	2482
+Mature	,	Health	,	"	Panda Gummies	"	,	Midwest	,	2012	,	12	,	40	,	5840
+Mature	,	Health	,	"	Panda Gummies	"	,	Midwest	,	2013	,	1	,	44	,	6556
+Mature	,	Health	,	"	Panda Gummies	"	,	Midwest	,	2013	,	5	,	47	,	7003
+Mature	,	Health	,	"	Panda Gummies	"	,	Midwest	,	2013	,	6	,	79	,	11771
+Mature	,	Health	,	"	Panda Gummies	"	,	Midwest	,	2013	,	7	,	43	,	6407
+Mature	,	Health	,	"	Panda Gummies	"	,	Midwest	,	2013	,	8	,	71	,	10579
+Mature	,	Health	,	"	Panda Gummies	"	,	Midwest	,	2013	,	9	,	40	,	5960
+Mature	,	Health	,	"	Panda Gummies	"	,	Midwest	,	2013	,	10	,	187	,	27863
+Mature	,	Health	,	"	Panda Gummies	"	,	Midwest	,	2013	,	11	,	56	,	8344
+Mature	,	Health	,	"	Panda Gummies	"	,	Midwest	,	2014	,	1	,	57	,	7592
+Mature	,	Health	,	"	Panda Gummies	"	,	Midwest	,	2014	,	3	,	34	,	5032
+Mature	,	Health	,	"	Panda Gummies	"	,	Midwest	,	2014	,	4	,	15	,	2220
+Mature	,	Health	,	"	Panda Gummies	"	,	Midwest	,	2014	,	5	,	16	,	2368
+Mature	,	Health	,	"	Panda Gummies	"	,	Midwest	,	2014	,	6	,	59	,	7859
+Mature	,	Health	,	"	Panda Gummies	"	,	Midwest	,	2014	,	8	,	31	,	4588
+Mature	,	Health	,	"	Panda Gummies	"	,	Midwest	,	2014	,	9	,	2	,	296
+Mature	,	Health	,	"	Panda Gummies	"	,	Midwest	,	2014	,	10	,	2	,	296
+Mature	,	Health	,	"	Panda Gummies	"	,	Midwest	,	2014	,	11	,	16	,	2368
+Mature	,	Health	,	"	Panda Gummies	"	,	Southeast	,	2012	,	2	,	53	,	7738
+Mature	,	Health	,	"	Panda Gummies	"	,	Southeast	,	2012	,	3	,	12	,	1752
+Mature	,	Health	,	"	Panda Gummies	"	,	Southeast	,	2012	,	7	,	24	,	3504
+Mature	,	Health	,	"	Panda Gummies	"	,	Southeast	,	2012	,	8	,	7	,	1022
+Mature	,	Health	,	"	Panda Gummies	"	,	Southeast	,	2012	,	10	,	39	,	5694
+Mature	,	Health	,	"	Panda Gummies	"	,	Southeast	,	2012	,	11	,	17	,	2482
+Mature	,	Health	,	"	Panda Gummies	"	,	Southeast	,	2012	,	12	,	22	,	3212
+Mature	,	Health	,	"	Panda Gummies	"	,	Southeast	,	2013	,	7	,	88	,	13112
+Mature	,	Health	,	"	Panda Gummies	"	,	Southeast	,	2013	,	12	,	56	,	8344
+Mature	,	Health	,	"	Panda Gummies	"	,	Southeast	,	2014	,	1	,	51	,	6793
+Mature	,	Health	,	"	Panda Gummies	"	,	Southeast	,	2014	,	2	,	7	,	1036
+Mature	,	Health	,	"	Panda Gummies	"	,	Southeast	,	2014	,	8	,	92	,	12254
+Mature	,	Health	,	"	Panda Gummies	"	,	Southeast	,	2014	,	9	,	19	,	2812
+Mature	,	Health	,	"	Panda Gummies	"	,	Southeast	,	2014	,	10	,	1	,	148
+Mature	,	Health	,	"	Panda Gummies	"	,	Western	,	2012	,	1	,	31	,	4526
+Mature	,	Health	,	"	Panda Gummies	"	,	Western	,	2012	,	2	,	3	,	438
+Mature	,	Health	,	"	Panda Gummies	"	,	Western	,	2012	,	3	,	18	,	2628
+Mature	,	Health	,	"	Panda Gummies	"	,	Western	,	2012	,	5	,	65	,	9490
+Mature	,	Health	,	"	Panda Gummies	"	,	Western	,	2012	,	6	,	5	,	730
+Mature	,	Health	,	"	Panda Gummies	"	,	Western	,	2012	,	7	,	55	,	8030
+Mature	,	Health	,	"	Panda Gummies	"	,	Western	,	2013	,	1	,	13	,	1937
+Mature	,	Health	,	"	Panda Gummies	"	,	Western	,	2013	,	4	,	8	,	1192
+Mature	,	Health	,	"	Panda Gummies	"	,	Western	,	2013	,	6	,	81	,	12069
+Mature	,	Health	,	"	Panda Gummies	"	,	Western	,	2013	,	7	,	51	,	7599
+Mature	,	Health	,	"	Panda Gummies	"	,	Western	,	2013	,	8	,	69	,	10281
+Mature	,	Health	,	"	Panda Gummies	"	,	Western	,	2013	,	9	,	48	,	7152
+Mature	,	Health	,	"	Panda Gummies	"	,	Western	,	2013	,	11	,	42	,	6258
+Mature	,	Health	,	"	Panda Gummies	"	,	Western	,	2013	,	12	,	55	,	8195
+Mature	,	Health	,	"	Panda Gummies	"	,	Western	,	2014	,	2	,	83	,	11559
+Mature	,	Health	,	"	Panda Gummies	"	,	Western	,	2014	,	3	,	60	,	7992
+Mature	,	Health	,	"	Panda Gummies	"	,	Western	,	2014	,	4	,	116	,	15452
+Mature	,	Health	,	"	Panda Gummies	"	,	Western	,	2014	,	7	,	19	,	2812
+Mature	,	Health	,	"	Panda Gummies	"	,	Western	,	2014	,	8	,	22	,	3256
+Mature	,	Health	,	"	Panda Gummies	"	,	Western	,	2014	,	10	,	58	,	7726
+Mature	,	Health	,	"	Panda Gummies	"	,	Western	,	2014	,	12	,	1	,	148
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Eastern	,	2013	,	1	,	130	,	51740
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Eastern	,	2013	,	2	,	46	,	18308
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Eastern	,	2013	,	4	,	19	,	7562
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Eastern	,	2013	,	5	,	177	,	70446
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Eastern	,	2013	,	7	,	46	,	18308
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Eastern	,	2013	,	8	,	20	,	7960
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Eastern	,	2013	,	9	,	87	,	34626
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Eastern	,	2013	,	10	,	12	,	4776
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Eastern	,	2013	,	11	,	28	,	11144
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Eastern	,	2014	,	1	,	36	,	14040
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Eastern	,	2014	,	2	,	42	,	14742
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Eastern	,	2014	,	6	,	68	,	24687
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Eastern	,	2014	,	7	,	9	,	3510
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Eastern	,	2014	,	8	,	46	,	16497
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Eastern	,	2014	,	10	,	68	,	24687
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Eastern	,	2014	,	11	,	41	,	14391
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Eastern	,	2014	,	12	,	89	,	34710
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Midwest	,	2013	,	1	,	5	,	1990
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Midwest	,	2013	,	2	,	33	,	13134
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Midwest	,	2013	,	3	,	24	,	9552
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Midwest	,	2013	,	4	,	93	,	37014
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Midwest	,	2013	,	5	,	57	,	22686
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Midwest	,	2013	,	6	,	31	,	12338
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Midwest	,	2013	,	8	,	42	,	16716
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Midwest	,	2013	,	10	,	22	,	8756
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Midwest	,	2013	,	11	,	7	,	2786
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Midwest	,	2014	,	1	,	25	,	9750
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Midwest	,	2014	,	3	,	54	,	18954
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Midwest	,	2014	,	4	,	35	,	13650
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Midwest	,	2014	,	6	,	26	,	10140
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Midwest	,	2014	,	12	,	29	,	11310
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Southeast	,	2013	,	2	,	33	,	13134
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Southeast	,	2013	,	3	,	50	,	19900
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Southeast	,	2013	,	4	,	11	,	4378
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Southeast	,	2013	,	6	,	61	,	24278
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Southeast	,	2013	,	12	,	37	,	14726
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Southeast	,	2014	,	2	,	68	,	24570
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Southeast	,	2014	,	4	,	79	,	28821
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Southeast	,	2014	,	6	,	58	,	20358
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Southeast	,	2014	,	10	,	17	,	6630
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Western	,	2013	,	3	,	84	,	33432
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Western	,	2013	,	4	,	40	,	15920
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Western	,	2013	,	5	,	65	,	25870
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Western	,	2013	,	6	,	19	,	7562
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Western	,	2013	,	9	,	21	,	8358
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Western	,	2013	,	10	,	46	,	18308
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Western	,	2013	,	11	,	40	,	15920
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Western	,	2014	,	1	,	5	,	1950
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Western	,	2014	,	2	,	11	,	4290
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Western	,	2014	,	3	,	2	,	780
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Western	,	2014	,	4	,	45	,	16107
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Western	,	2014	,	6	,	45	,	15795
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Western	,	2014	,	7	,	44	,	15444
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Western	,	2014	,	8	,	24	,	9360
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Western	,	2014	,	9	,	34	,	13260
+Mature	,	Lunchtime	,	"	Green Lightning	"	,	Western	,	2014	,	11	,	18	,	7020
+Mature	,	Lunchtime	,	"	Orange Creepies	"	,	Eastern	,	2014	,	1	,	66	,	28286
+Mature	,	Lunchtime	,	"	Orange Creepies	"	,	Eastern	,	2014	,	2	,	7	,	3262
+Mature	,	Lunchtime	,	"	Orange Creepies	"	,	Eastern	,	2014	,	3	,	8	,	3728
+Mature	,	Lunchtime	,	"	Orange Creepies	"	,	Eastern	,	2014	,	4	,	12	,	5592
+Mature	,	Lunchtime	,	"	Orange Creepies	"	,	Eastern	,	2014	,	5	,	32	,	14912
+Mature	,	Lunchtime	,	"	Orange Creepies	"	,	Eastern	,	2014	,	7	,	55	,	23067
+Mature	,	Lunchtime	,	"	Orange Creepies	"	,	Eastern	,	2014	,	8	,	12	,	5592
+Mature	,	Lunchtime	,	"	Orange Creepies	"	,	Eastern	,	2014	,	9	,	6	,	2796
+Mature	,	Lunchtime	,	"	Orange Creepies	"	,	Eastern	,	2014	,	10	,	35	,	16310
+Mature	,	Lunchtime	,	"	Orange Creepies	"	,	Eastern	,	2014	,	11	,	140	,	61093
+Mature	,	Lunchtime	,	"	Orange Creepies	"	,	Eastern	,	2014	,	12	,	47	,	19712
+Mature	,	Lunchtime	,	"	Orange Creepies	"	,	Midwest	,	2014	,	3	,	53	,	22228
+Mature	,	Lunchtime	,	"	Orange Creepies	"	,	Midwest	,	2014	,	4	,	55	,	23067
+Mature	,	Lunchtime	,	"	Orange Creepies	"	,	Midwest	,	2014	,	7	,	8	,	3728
+Mature	,	Lunchtime	,	"	Orange Creepies	"	,	Midwest	,	2014	,	11	,	47	,	19712
+Mature	,	Lunchtime	,	"	Orange Creepies	"	,	Midwest	,	2014	,	12	,	58	,	24325
+Mature	,	Lunchtime	,	"	Orange Creepies	"	,	Southeast	,	2014	,	1	,	58	,	24325
+Mature	,	Lunchtime	,	"	Orange Creepies	"	,	Southeast	,	2014	,	5	,	44	,	18454
+Mature	,	Lunchtime	,	"	Orange Creepies	"	,	Southeast	,	2014	,	6	,	19	,	8854
+Mature	,	Lunchtime	,	"	Orange Creepies	"	,	Southeast	,	2014	,	7	,	74	,	32434
+Mature	,	Lunchtime	,	"	Orange Creepies	"	,	Southeast	,	2014	,	8	,	39	,	16357
+Mature	,	Lunchtime	,	"	Orange Creepies	"	,	Southeast	,	2014	,	12	,	39	,	16357
+Mature	,	Lunchtime	,	"	Orange Creepies	"	,	Western	,	2014	,	1	,	15	,	6990
+Mature	,	Lunchtime	,	"	Orange Creepies	"	,	Western	,	2014	,	2	,	45	,	18873
+Mature	,	Lunchtime	,	"	Orange Creepies	"	,	Western	,	2014	,	3	,	56	,	23486
+Mature	,	Lunchtime	,	"	Orange Creepies	"	,	Western	,	2014	,	5	,	60	,	26189
+Mature	,	Lunchtime	,	"	Orange Creepies	"	,	Western	,	2014	,	8	,	8	,	3728
+Mature	,	Lunchtime	,	"	Orange Creepies	"	,	Western	,	2014	,	9	,	60	,	25164
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Eastern	,	2012	,	1	,	40	,	10320
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Eastern	,	2012	,	2	,	81	,	20898
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Eastern	,	2012	,	4	,	17	,	4386
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Eastern	,	2012	,	5	,	10	,	2580
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Eastern	,	2012	,	6	,	39	,	10062
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Eastern	,	2012	,	7	,	17	,	4386
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Eastern	,	2012	,	9	,	38	,	9804
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Eastern	,	2012	,	11	,	35	,	9030
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Eastern	,	2013	,	1	,	51	,	12903
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Eastern	,	2013	,	2	,	28	,	7084
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Eastern	,	2013	,	3	,	33	,	8349
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Eastern	,	2013	,	4	,	114	,	28842
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Eastern	,	2013	,	5	,	68	,	17204
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Eastern	,	2013	,	6	,	35	,	8855
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Eastern	,	2013	,	9	,	12	,	3036
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Eastern	,	2013	,	10	,	144	,	36432
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Eastern	,	2014	,	1	,	3	,	789
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Eastern	,	2014	,	2	,	38	,	8995
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Eastern	,	2014	,	3	,	11	,	2893
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Eastern	,	2014	,	6	,	78	,	19094
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Eastern	,	2014	,	7	,	43	,	11309
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Eastern	,	2014	,	8	,	41	,	9705
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Eastern	,	2014	,	9	,	77	,	18226
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Eastern	,	2014	,	10	,	55	,	13018
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Eastern	,	2014	,	11	,	60	,	14202
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Eastern	,	2014	,	12	,	88	,	22118
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Midwest	,	2012	,	1	,	0	,	0
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Midwest	,	2012	,	3	,	36	,	9288
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Midwest	,	2012	,	4	,	16	,	4128
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Midwest	,	2012	,	5	,	33	,	8514
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Midwest	,	2012	,	6	,	2	,	516
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Midwest	,	2012	,	9	,	26	,	6708
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Midwest	,	2012	,	12	,	11	,	2838
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Midwest	,	2013	,	1	,	53	,	13409
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Midwest	,	2013	,	2	,	7	,	1771
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Midwest	,	2013	,	3	,	48	,	12144
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Midwest	,	2013	,	5	,	38	,	9614
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Midwest	,	2013	,	9	,	36	,	9108
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Midwest	,	2013	,	10	,	34	,	8602
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Midwest	,	2014	,	4	,	24	,	6312
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Midwest	,	2014	,	5	,	24	,	6312
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Midwest	,	2014	,	6	,	17	,	4471
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Midwest	,	2014	,	7	,	8	,	2104
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Midwest	,	2014	,	8	,	10	,	2630
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Midwest	,	2014	,	9	,	28	,	7364
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Midwest	,	2014	,	11	,	12	,	3156
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Southeast	,	2012	,	1	,	22	,	5676
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Southeast	,	2012	,	3	,	16	,	4128
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Southeast	,	2012	,	4	,	26	,	6708
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Southeast	,	2012	,	6	,	22	,	5676
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Southeast	,	2012	,	7	,	32	,	8256
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Southeast	,	2012	,	8	,	47	,	12126
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Southeast	,	2012	,	9	,	13	,	3354
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Southeast	,	2012	,	11	,	45	,	11610
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Southeast	,	2012	,	12	,	37	,	9546
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Southeast	,	2013	,	3	,	33	,	8349
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Southeast	,	2013	,	4	,	21	,	5313
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Southeast	,	2013	,	5	,	52	,	13156
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Southeast	,	2013	,	8	,	24	,	6072
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Southeast	,	2013	,	10	,	122	,	30866
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Southeast	,	2013	,	11	,	24	,	6072
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Southeast	,	2014	,	4	,	24	,	6312
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Southeast	,	2014	,	9	,	40	,	9468
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Southeast	,	2014	,	10	,	27	,	7101
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Southeast	,	2014	,	12	,	71	,	17305
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Western	,	2012	,	1	,	21	,	5418
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Western	,	2012	,	3	,	44	,	11352
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Western	,	2012	,	5	,	28	,	7224
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Western	,	2012	,	6	,	39	,	10062
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Western	,	2012	,	8	,	68	,	17544
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Western	,	2012	,	9	,	68	,	17544
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Western	,	2012	,	11	,	23	,	5934
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Western	,	2012	,	12	,	37	,	9546
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Western	,	2013	,	1	,	29	,	7337
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Western	,	2013	,	2	,	19	,	4807
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Western	,	2013	,	4	,	75	,	18975
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Western	,	2013	,	6	,	54	,	13662
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Western	,	2013	,	8	,	36	,	9108
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Western	,	2013	,	10	,	24	,	6072
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Western	,	2013	,	12	,	42	,	10626
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Western	,	2014	,	1	,	72	,	17437
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Western	,	2014	,	3	,	17	,	4471
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Western	,	2014	,	4	,	62	,	16306
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Western	,	2014	,	6	,	31	,	8153
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Western	,	2014	,	7	,	46	,	10993
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Western	,	2014	,	8	,	12	,	3156
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Western	,	2014	,	9	,	106	,	25353
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Western	,	2014	,	10	,	55	,	13018
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Western	,	2014	,	11	,	37	,	8758
+Mature	,	Lunchtime	,	"	Yellow Zonkers	"	,	Western	,	2014	,	12	,	21	,	5523
